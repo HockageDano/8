@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Predator\Desktop\81\81\Source.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Predator\Desktop\81\81\Source.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+  81.vcxproj -> C:\Users\Predator\Desktop\81\Debug\81.exe
